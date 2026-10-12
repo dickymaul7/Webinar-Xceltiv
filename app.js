@@ -7,7 +7,7 @@
 const GOOGLE_SCRIPT_WEBAPP_URL = "https://script.google.com/macros/s/AKfycbwWTUuRoCe49QuGHc5wqmGqn9a7agxlk6BwbAQfvtlsS8JRpz7CfCGbQAS8_vh0_Ssy/exec";
 
 // Link Grup WhatsApp Peserta (Auto redirect setelah sukses mendaftar)
-const WHATSAPP_COMMUNITY_LINK = "https://chat.whatsapp.com/KPY4HaQb1lq4yiE46PwYZk";
+const WHATSAPP_COMMUNITY_LINK = "https://chat.whatsapp.com/FTgfsGswteVF0sNZMc3SK4";
 
 document.addEventListener("DOMContentLoaded", () => {
   initCountdown();
